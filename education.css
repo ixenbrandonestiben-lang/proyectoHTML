@@ -1,0 +1,19 @@
+html{
+    background-color: rgb(25, 118, 131);
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#python{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#menu{
+    color: black;
+    font-size: larger;
+}
+
+
