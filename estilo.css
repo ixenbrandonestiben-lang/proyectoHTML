@@ -24,3 +24,22 @@ ul{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(87, 22, 112);
 }
+.sobremi{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(22, 87, 112);
+}   
+.educacion{
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    color: rgb(112, 22, 87);
+}
+.proyectos{
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    color: rgb(22, 112, 87);
+}
+.habilidades{
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    color: rgb(87, 112, 22);
+    font-size: medium;
+    width: 50%  ;
+    height: auto;
+}
