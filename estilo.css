@@ -17,13 +17,12 @@ ul{
     font-family: 'Times New Roman', Times, serif;
     color: yellowgreen;
 }
-#educacion{
-    color: yellow;
-}   
+
 .education{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(87, 22, 112);
     font-style: oblique;
+    text-decoration: dotted;
 }
 .sobremi{
     font-family: 'Courier New', Courier, monospace;
@@ -39,14 +38,14 @@ ul{
     font-family: 'Lucida Console', 'Courier New', monospace;
     color: rgb(22, 112, 87);
     font-size: medium;
+    text-decoration: solid;
 
 }
 .habilidades{
     font-family: 'Lucida Console', 'Courier New', monospace;
     color: rgb(87, 112, 22);
-    font-size: medium;
-    width: 50%  ;
-    height: auto;
+    text-align: center;
+    text-decoration: double;
 }
 #contacto{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -60,6 +59,6 @@ ul{
     font-style: unset;
     font-display: block;
     color: aquamarine;
-    
+    text-decoration: double;
 }
 
